@@ -1,0 +1,4 @@
+#Sat Apr 14 10:04:45 ALMT 2018
+base.0=C\:\\Users\\kkerz\\Desktop\\unity-exported\\RobotCreation2D\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

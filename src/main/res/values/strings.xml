@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">air: Advance in Robotics</string>
+  <string name="title_robots">My robots</string>
+  <string name="title_tutorials">My tutorials</string>
+  <string name="title_profile">My profile</string>
+  <string name="name">TextView</string>
+  <string name="age">TextView</string>
+  <string name="region">TextView</string>
+  <string name="Robo_coins">TextView</string>
+  <string name="coins_amount">TextView</string>
+  <string name="r_name">Robot Name</string>
+  <string name="v_name">Video 1</string>
+  <string name="robots">My Robots</string>
+  <string name="ok">OK</string>
+
+  <string-array name="robots_name">
+    <item>Robot 1</item>
+    <item>Robot 2</item>
+    <item>Robot 3</item>
+    <item>Robot 4</item>
+  </string-array>
+</resources>
